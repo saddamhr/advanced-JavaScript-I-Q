@@ -8,13 +8,12 @@
  */
 
  /**
- * Falsy values in JavaScript
- * 0; Zero
- * ''
+ * false — boolean false
+ * 0 — number zero
+ * “” — empty string
  * null
  * undefined
- * NaN; not a number
- * false
+ * NaN — Not A Number
  */
 
 // const age = 0;
